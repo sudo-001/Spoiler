@@ -1,0 +1,25 @@
+.spoiler-content
+{
+    display: inline-block;
+    overflow: hidden;
+    width: 0;
+    height: 0;
+    opacity: 0;
+    transition: opacity 1s;
+}
+
+.spoiler
+{
+    color: white;
+}
+.visible
+{
+    display: inline;
+    opacity: 1;
+    color: black;
+}
+
+.hide-btn
+{
+    display: none;
+}
