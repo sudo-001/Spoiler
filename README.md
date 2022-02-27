@@ -1,2 +1,2 @@
 # Spoiler
-Just a simple Spoiler System using JS 
+Just a simple Spoiler System using JS 😅
